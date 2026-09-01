@@ -14,9 +14,7 @@
 <div align="center">
   <a href="https://github.com/Lilly-and-Others">Organization</a>
   ·
-  <a href="https://github.com/Lilly-and-Others/projects">Projects</a>
-  ·
-  <a href="https://github.com/Lilly-and-Others/discussions">Discussions</a>
+  <a href="https://github.com/orgs/Lilly-and-Others/repositories">Repositories</a>
 </div>
 
 ---
@@ -43,7 +41,6 @@
 ## Links
 
 - [All repositories](https://github.com/orgs/Lilly-and-Others/repositories)
-- [Organization Projects](https://github.com/orgs/Lilly-and-Others/projects)
 
 <div align="center">
   <sub>Made with curiosity by Lilly and Others.</sub>
