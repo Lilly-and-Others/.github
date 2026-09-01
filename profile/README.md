@@ -6,8 +6,8 @@
   <h1>Lilly and Others</h1>
 
   <p>
-    <strong>Games, stories, and little worlds made together.</strong><br>
-    ゲームと、物語と、創作のためのサークル
+    <strong>上位存在を描く。</strong><br>
+    Depicting higher beings through games and creative works.
   </p>
 </div>
 
@@ -21,21 +21,22 @@
 
 ## About
 
-**Lilly and Others** is a circle creating games and other creative works.
+**Lilly and Others** is a circle centered on depicting higher beings through games and other creative works.
 
-小さなアイデアを形にしながら、遊んだ人の記憶に残る作品をつくっています。
+Lilly and Othersは、上位存在を描くことを中心に、ゲームやその他の創作をつくっています。
 
 ## What we make
 
 | Field | Focus |
 | --- | --- |
+| 👁 Higher beings | The central subject of our creative work |
 | 🎮 Games | Playable experiments, prototypes, and finished works |
 | 🧩 Tools | Small tools and systems that support making things |
 | ✦ Creative works | Stories, worlds, and other forms of expression |
 
 ## Current work
 
-作品と制作記録は、Organization内の各リポジトリで進行しています。
+上位存在を描く作品と制作記録は、Organization内の各リポジトリで進行しています。
 公開できる作品やリリースは、順次ここから案内していきます。
 
 ## Links
